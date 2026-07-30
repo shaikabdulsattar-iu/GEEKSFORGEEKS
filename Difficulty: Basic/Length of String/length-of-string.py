@@ -1,0 +1,5 @@
+class Solution:
+    def lengthString(self, s):
+        return len(s)
+        # code here
+    
