@@ -1,0 +1,7 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/find-the-sum-of-all-elements-in-a-numpy-array/1">Sum of a Numpy Array</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p class="" data-start="323" data-end="400"><span style="font-size: 18.6667px;">Given a 1-dimensional NumPy array <strong>arr</strong> of size <strong>n</strong>, find the sum of all elements present in the array.</span></p>
+<h3 class="" data-start="565" data-end="579"><span style="font-size: 14pt;">Examples :</span></h3>
+<pre data-start="642" data-end="653"><span style="font-size: 18.6667px;"><span style="font-size: 18.6667px;"><strong>Input: </strong>arr = np.array([1, 2, 3, 4, 5])<strong>
+Output: </strong>15<strong>
+Explanation: </strong>The sum of all elements in the array is 1 + 2 + 3 + 4 + 5 = 15.</span><br></span></pre>
+<pre data-start="673" data-end="753"><span style="font-size: 14pt;"><span style="font-size: 14pt;"><strong>Input:</strong> arr = np.array([10, 20, 30])<br></span><span style="font-size: 18.6667px;"><strong>Output:</strong> 60
+<strong>Explanation:</strong> The sum of all elements in the array is 10 + 20 + 30 = 60.</span></span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;
